@@ -1,0 +1,42 @@
+[
+    {
+        "user_id": "user_id_1",
+        "input_text": "The sun sets behind the mountains, casting a warm golden glow across the serene landscape.",
+        "translated_text": "Le soleil se couche derri\u00e8re les montagnes, jetant une lueur d'or chaude \u00e0 travers le paysage serein."
+    },
+    {
+        "user_id": "user_id_1",
+        "input_text": "As all the sentences in a paragraph relate to one subject, each sentence should take up the thought where the preceding one left it.",
+        "translated_text": "\u00c9tant donn\u00e9 que toutes les phrases d'un paragraphe se rapportent \u00e0 un sujet, chaque phrase devrait reprendre la pens\u00e9e l\u00e0 o\u00f9 la phrase pr\u00e9c\u00e9dente l'a laiss\u00e9e."
+    },
+    {
+        "user_id": "user_id_1",
+        "input_text": "A paragraph is a combination of sentences dealing with one topic. The elements of the sentences and of the paragraph are the same; they differ only in form.",
+        "translated_text": "Un paragraphe est une combinaison de phrases traitant d'un seul sujet. Les \u00e9l\u00e9ments des phrases et du paragraphe sont les m\u00eames; ils ne diff\u00e8rent que par leur forme."
+    },
+    {
+        "user_id": "user_id_2",
+        "input_text": "Lives of great men are the shining examples of dedication to work. They never bother about the nature of work. All work is noble. What is true of an individual is true of a nation also.",
+        "translated_text": "Las vidas de los grandes hombres son los ejemplos brillantes de la dedicaci\u00f3n al trabajo. Nunca se preocupan por la naturaleza del trabajo. Todo trabajo es noble. Lo que es verdad de un individuo es verdad de una naci\u00f3n tambi\u00e9n."
+    },
+    {
+        "user_id": "user_id_2",
+        "input_text": "Only those nations progress whose people are hard-working and industrious. Japan, which was a backward country a century ago, is one of the most prosperous countries in the world today. And this prosperity has been achieved by the Japanese by dint of hard work.",
+        "translated_text": "El Jap\u00f3n, que era un pa\u00eds atrasado hace un siglo, es uno de los pa\u00edses m\u00e1s pr\u00f3speros del mundo de hoy, y esta prosperidad ha sido alcanzada por los japoneses por medio de un duro trabajo."
+    },
+    {
+        "user_id": "user_id_2",
+        "timestamp": "2024-01-16T08:52:17.966648+00:00",
+        "input_text": "The music and P.T. teachers are also very capable in their work. My school is an ideal school and I am proud of my school.",
+        "translated_text": "Los profesores de m\u00fasica y P.T. tambi\u00e9n son muy capaces en su trabajo. Mi escuela es una escuela ideal y estoy orgulloso de mi escuela."
+    },
+    {
+        "user_id": "user_id_1",
+        "timestamp": {
+            "datetime": "2024-01-16T14:44:57.784920+05:30",
+            "timezone": "IST"
+        },
+        "input_text": "My school has well equipped science laboratories. There is also a computer lab with latest computer systems.",
+        "translated_text": "Mon \u00e9cole a des laboratoires scientifiques bien \u00e9quip\u00e9s. Il y a aussi un laboratoire informatique avec les derniers syst\u00e8mes informatiques."
+    }
+]
