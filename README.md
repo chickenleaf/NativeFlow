@@ -14,7 +14,7 @@ pip install python
 Run the following command to start the conversational translator:
 
 ```bash
-python frenchToEnglishChat.py
+python NativeFlow.py
 ```
 Follow the prompts to register or provide your existing user ID. Start chatting and enjoy translations!
 
